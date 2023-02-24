@@ -13,7 +13,8 @@ Formulario de votación prueba técnica
 - Descargar e Importar base de datos prueba_tecnica.sql en phpMyAdmin
 - Iniciar los servicios Xamp Apache y MySql
 - Iniciar el servidor con el comando php -S localhost:8000 en la terminal
-- 
+- Ingresar al navegador web con la siguiente ruta : http://localhost:8000/formulario.php
+
 ##  Construido con 🛠️
 -[ VSC ](https://code.visualstudio.com/) - Usado para editar código fuente y ejecutar comandos
 -PHP usado para conexion a la base de datos, insercion de datos y el proceso del formulario
