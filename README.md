@@ -10,7 +10,7 @@ Formulario de votación prueba técnica
 ###  Instalación 🔧
 - Descargar el proyecto desde GitHub (clonando o descargando el proyecto)
 - Directorio donde alojar la aplicación dentro del XAMPP
-- Descargar e Importar base de datos prueba_tecnica.sql en phpMyAdmin
+- Descargar e Importar base de datos prueba_tecnica.sql en phpMyAdmin alojada en la carpeta SQL
 - Iniciar los servicios Xamp Apache y MySql
 - Iniciar el servidor con el comando php -S localhost:8000 en la terminal
 - Ingresar al navegador web con la siguiente ruta : http://localhost:8000/formulario.php
