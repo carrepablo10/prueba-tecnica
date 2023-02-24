@@ -16,10 +16,10 @@ Formulario de votación prueba técnica
 - Ingresar al navegador web con la siguiente ruta : http://localhost:8000/formulario.php
 
 ##  Construido con 🛠️
--[ VSC ](https://code.visualstudio.com/) - Usado para editar código fuente y ejecutar comandos
--PHP usado para conexion a la base de datos, insercion de datos y el proceso del formulario
--HTML usado para dar estructura al formulario
--Tailwinds CSS
--Flowbite CSS
--JavaScript usado para las validaciones de los campos del formulario
--Base de datos MySql utilizada para almacenar los datos enviados por el formulario
+- [ VSC ](https://code.visualstudio.com/) - Usado para editar código fuente y ejecutar comandos
+- PHP usado para conexion a la base de datos, insercion de datos y el proceso del formulario
+- HTML usado para dar estructura al formulario
+- Tailwinds CSS
+- Flowbite CSS
+- JavaScript usado para las validaciones de los campos del formulario
+- Base de datos MySql utilizada para almacenar los datos enviados por el formulario
