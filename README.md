@@ -1,5 +1,6 @@
 # prueba-tecnica
-Formulario de votación prueba técnica
+Formulario de votación prueba técnica.
+la documentacion se encuentra dentro el codigo.
 
 ###  Prerrequisitos 📋
 -Visual studio code
