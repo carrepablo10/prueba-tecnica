@@ -6,6 +6,12 @@
  * donde se le asignan todos los permisos y privilegios al usuario.
  */
 
+ /** 
+  * LEER PASO EN PRERREQUISITOS EN README CREAR USUARIO
+  * en caso de crear un usuario nuevo en la base de datos, modificar el $username y escribir el usuario creado por usted 
+  * y en caso de cambiar la contraseña tambien modificar la variable $password
+  */
+
 $server = 'localhost';
 $username = 'Prueba';
 $password = '123';
